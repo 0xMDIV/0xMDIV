@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMDIV&hide_title=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=0xMDIV&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=0xMDIV&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs"/>
 
 <!--
 **0xMDIV/0xMDIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
