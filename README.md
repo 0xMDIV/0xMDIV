@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h2 align="center">Stats</h2>
 <a href="https://github.com/0xMDIV">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=0xMDIV" alt="Profile Views Count">
