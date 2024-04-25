@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Django<br>🌱 I’m currently learning Python and JS<br>💬 Ask me about anything<br>⚡ Fun fact i used to be in the Game Hacking Scene
+🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Django<br>🌱 I’m currently learning Python and JS<br>💬 Ask me about anything<br>⚡Some time in Game Develpoment
 
 
 ## 🌐 Socials:
